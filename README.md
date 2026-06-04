@@ -5,5 +5,5 @@ Hello! I'm a <a href="https://www.usgs.gov/staff-profiles/sarah-y-murphy">Physic
 <a href = "https://www.sarahymurphy.com">Visit my website to learn more about me!</a>
 <br><br>
 
-<img width="1000" alt="DJI_0248-2" src="https://github.com/user-attachments/assets/030a4c49-f9da-4ab7-8060-2c63380f95c0" />
+<img width="800" alt="DJI_0248-2" src="https://github.com/user-attachments/assets/030a4c49-f9da-4ab7-8060-2c63380f95c0" />
 </center>
