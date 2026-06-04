@@ -1,5 +1,9 @@
-Hello! I'm a [Physical Scientist with the U.S. Geological Survey](https://www.usgs.gov/staff-profiles/sarah-y-murphy) & a Virtual Conference Specialist and Editor for The Conference Exchange.
+<center>
+Hello! I'm a <a href="https://www.usgs.gov/staff-profiles/sarah-y-murphy">Physical Scientist with the U.S. Geological Survey</a> & a Podium Technician for <a href="https://www.m-events.com/">M|Events USA</a>.
+<br><br>
 
-This GitHub account was primarily used for work during my Ph.D. at Washington State University and is now mostly just a home for my [personal website](https://sarahymurphy.github.io) and hobby code. I have switched over to an internal USGS GitLab account for my code; all public code releases will be listed on my website.
+<a href = "https://www.sarahymurphy.com">Visit my website to learn more about me!</a>
+<br><br>
 
-
+<img width="500" alt="DJI_0248" src="https://github.com/user-attachments/assets/4c642147-21eb-4bbe-9a34-051ee476f869" />
+</center>
